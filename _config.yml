@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI & NLP Workshop Day 2019 - take part in hands-on workshops on Artificial Intelligence and Natural Language Processing
+title: AI & NLP Workshop Day 2020 - take part in hands-on workshops on Artificial Intelligence and Natural Language Processing
 email: info@nlpday.pl
 description: > # this means to ignore newlines until "baseurl:"
   AI & NLP Workshop Day is a unique opportunity to take part in one of 12 hands-on workshops concerning Artificial Intelligence, Data Science and Natural Language Processing.
